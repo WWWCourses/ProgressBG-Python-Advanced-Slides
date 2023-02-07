@@ -1,0 +1,13 @@
+Exceptions: raising and handling.
+Functional topics: decorators, lambda/map/filter/reduce.
+OOP: Classes, encapsulation, inheritance, operator overloading.
+Iterators. Generators. Comprehensions.
+
+The Python process and OS services.
+Organizing code: imports, modules, packages.
+Python Virtual Environments
+Practicalities: linting, testing, documentation.
+Databases: SQLalchemy.
+ParallelProgramming
+
+
