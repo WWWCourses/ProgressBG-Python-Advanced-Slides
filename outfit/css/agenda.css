@@ -132,7 +132,7 @@ body{
   transition: visibility 5s;
 }*/
 .themes>article>section[data-wip], .themes>article>section[data-wip] h3 {
-  color: #666;
+  color: #333;
 }
 
 .themes>article h3{
